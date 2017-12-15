@@ -1,4 +1,4 @@
-**Introduction To Data Science**
+<h1>Introduction To Data Science</h1>
 
 This is what i've done for `Introduction to Data Science` Course, the slides of the class, the files (for Example Week 1.ipynb) are the codes that written in the class.
 
